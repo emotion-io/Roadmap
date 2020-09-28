@@ -151,6 +151,7 @@ You should not make to any technical position (front-end developer, back-end dev
 ## Back-end PHP
 
 This module is common to Magento and Akneeo PIM developers - they all should complete this module.  
+TBD. The module must comply with: [Zend Certified PHP Engineer](https://www.zend.com/training/php-certification-exam).
 
 
 - Best practice:
@@ -205,7 +206,8 @@ This module is required by front-end developers only.
 
 ## Akeneo PIM developer
 
-This module is required by Akeneo PIM developers only.
+This module is required by Akeneo PIM developers only.  
+TBD. The module must comply with: [Symfony Certification](https://certification.symfony.com/), [Akeneo implementation specialist certification](https://www.akeneo.com/certification/), [Akeneo developer certification](https://www.akeneo.com/certification/)
 
 - Symfony
 - Key components of Symfony: Twig, Swift Mailer, Assetic

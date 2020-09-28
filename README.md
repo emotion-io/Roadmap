@@ -36,10 +36,10 @@ You should not make to any position at Emotion while this module is not complete
         - [LIETUVOS RESPUBLIKOS ASMENS DUOMENŲ TEISINĖS APSAUGOS ĮSTATYMAS](https://www.e-tar.lt/portal/lt/legalAct/TAR.5368B592234C/asr)
         - [LIETUVOS RESPUBLIKOS KIBERNETINIO SAUGUMO ĮSTATYMAS](https://www.e-tar.lt/portal/lt/legalAct/5468a25089ef11e4a98a9f2247652cf4/asr)
         - [LIETUVOS RESPUBLIKOS ELEKTRONINIŲ RYŠIŲ ĮSTATYMAS](https://www.e-tar.lt/portal/lt/legalAct/TAR.82D8168D3049/asr)
-      - Other Lithuanian institutions with some extra local law introduced, see the listed law articles within the webs. Review the list, read the items that applies to projects you are about to work with:
+      - Websites of other law-and-data-security-related Lithuanian institutions. Browse the websites given down bellow, get a sense of the law introduced, get to know if any of the law you find applies to your particular project, if so - read that extra law in addition.
         - [Valstybinė duomenų apsaugos inspekcija](https://vdai.lrv.lt/lt/teisine-informacija/teises-aktai)
         - [Lietuvos Respublikos Ryšių reguliavimo tarnyba](https://www.rrt.lt/teisine-informacija/teises-aktai/)
-    - Norway law
+    - Norwegian law
       - The Norwegian Data Protection Authority (DPA) - a public authority financed by the Norwegian government and administratively subordinate to the Ministry of Local Government and Modernisation.
         - [Software development with Data Protection by Design and by Default](https://www.datatilsynet.no/en/about-privacy/virksomhetenes-plikter/innebygd-personvern/data-protection-by-design-and-by-default/) - read guidelines to help organisations understand and comply with the requirement of data protection.
   - Sensitive data storage software: LastPass, KeePass, etc.

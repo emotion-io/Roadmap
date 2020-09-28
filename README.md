@@ -42,9 +42,11 @@ You should not make to any position at Emotion while this module is not complete
     - Norwegian law
       - The Norwegian Data Protection Authority (DPA) - a public authority financed by the Norwegian government and administratively subordinate to the Ministry of Local Government and Modernisation.
         - [Software development with Data Protection by Design and by Default](https://www.datatilsynet.no/en/about-privacy/virksomhetenes-plikter/innebygd-personvern/data-protection-by-design-and-by-default/) - read guidelines to help organisations understand and comply with the requirement of data protection.
-  - Sensitive data storage software: LastPass, KeePass, etc.
+  - Sensitive data storage software: 
+    - [LastPass](https://support.logmeininc.com/lastpass) - online storage
+    - [KeePass](https://keepass.info/help/base/firststeps.html) - offline storage
   - Identificators: SKU, EAN, QR
-  - Categorization: Google Taxonomy
+  - Categorization: [Google Taxonomy](https://support.google.com/merchants/answer/6324436)
 - Doc management:
   - Google docs
   - Microsoft Office
@@ -61,7 +63,9 @@ You should not make to any position at Emotion while this module is not complete
 You should not make to a non-technical member position that directly communicates to technical member without completing this module. For example, non-technical people like HR and lawyers are ok without this module. However, project managers directly communicating to technical staff, or technical staff by itself must know this. This is so due to the fact that sometimes near-technical managers do some basic technical tasks that require a bit deeper technical knowledge. For example, project managers accept articatcs produced by technical people and performs some basic tasks on these (e.g. finds occurences of the specific text pattern in a given file, replaces a text, checks if the file provided by the customer is valid, etc.). We need the common ground between non-technical and technical people. And here it is. 
 
 - Management:
-  - Github / Bitbucket / Gitlab
+  - Github
+  - Bitbucket
+  - Gitlab?
 - Tests, QA:
   - Zephyr
 - Web application debugging via browser:

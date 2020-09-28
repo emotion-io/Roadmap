@@ -16,16 +16,32 @@ Want to contribute to this project? You are more than welcome to do so!
 You should not make to any position at Emotion while this module is not completed.  
 
 - Communication:
-  - Skype
-  - Slack
+  - [Slack](https://slack.com/intl/en-lt/resources/slack-101)
+  - [Skype](https://support.skype.com/en/skype/all/start/)
 - Web browsers: 
   - Cache
   - Incognito mode 
   - Useful plugins
 - Time management:
-  - Toggle basics
+  - [Toggle](https://support.toggl.com/en/)
 - Data management:
-  - GDPR basics
+  - Data protection, security:
+    - [DLA Piper](https://www.dlapiperdataprotection.com/index.html?c2=NO&c=LT&t=law) - law firm that simplifies law information, easy to compare different countries by the data protection law applied to each. Be careful, it may lack some info, may not be up to date. Get a sense on how law differs in particular countries you are about to be working with.
+    - European Union law - usually applies to all EU countries, each EU country may add some extra law on top in their local law base. Make sure you review the latest version of each document.
+      - [Data protection](https://ec.europa.eu/info/law/law-topic/data-protection_en) - page of EU institution focusing on presenting data protection law. This page may give you a better sence on what EU data protection law is about, you may browse the page. At the end, you shold be finding the following law docs:
+        - General Data Protection Regulation (GDPR) - read any: [index](https://eur-lex.europa.eu/eli/reg/2016/679/oj), [EN](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679), [LT](https://eur-lex.europa.eu/legal-content/LT/TXT/HTML/?uri=CELEX:32016R0679&from=LT)
+        - Directive on privacy and electronic communications - read any: [index](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A32002L0058), [EN](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32002L0058), [LT](https://eur-lex.europa.eu/legal-content/LT/TXT/HTML/?uri=CELEX:32002L0058)
+    - Lithuanian law
+      - LRS institution. Note: make sure you see the latest version of each doc by clicking on "Galiojanti suvestinė redakcija", read:
+        - [LIETUVOS RESPUBLIKOS ASMENS DUOMENŲ TEISINĖS APSAUGOS ĮSTATYMAS](https://www.e-tar.lt/portal/lt/legalAct/TAR.5368B592234C/asr)
+        - [LIETUVOS RESPUBLIKOS KIBERNETINIO SAUGUMO ĮSTATYMAS](https://www.e-tar.lt/portal/lt/legalAct/5468a25089ef11e4a98a9f2247652cf4/asr)
+        - [LIETUVOS RESPUBLIKOS ELEKTRONINIŲ RYŠIŲ ĮSTATYMAS](https://www.e-tar.lt/portal/lt/legalAct/TAR.82D8168D3049/asr)
+      - Other Lithuanian institutions with some extra local law introduced, see the listed law articles within the webs. Review the list, read the items that applies to projects you are about to work with:
+        - [Valstybinė duomenų apsaugos inspekcija](https://vdai.lrv.lt/lt/teisine-informacija/teises-aktai)
+        - [Lietuvos Respublikos Ryšių reguliavimo tarnyba](https://www.rrt.lt/teisine-informacija/teises-aktai/)
+    - Norway law
+      - The Norwegian Data Protection Authority (DPA) - a public authority financed by the Norwegian government and administratively subordinate to the Ministry of Local Government and Modernisation.
+        - [Software development with Data Protection by Design and by Default](https://www.datatilsynet.no/en/about-privacy/virksomhetenes-plikter/innebygd-personvern/data-protection-by-design-and-by-default/) - read guidelines to help organisations understand and comply with the requirement of data protection.
   - Sensitive data storage software: LastPass, KeePass, etc.
   - Identificators: SKU, EAN, QR
   - Categorization: Google Taxonomy
@@ -89,6 +105,7 @@ You should not make to any technical position (front-end developer, back-end dev
 
 - Best practices:
   - SOLID principles
+  - OWASP
 - Linux:
   - Bash (CLI usage, scripting)
   - Linux: Supervisor

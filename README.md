@@ -44,6 +44,8 @@ You should not make to any position at Emotion while this module is not complete
         - [Software development with Data Protection by Design and by Default](https://www.datatilsynet.no/en/about-privacy/virksomhetenes-plikter/innebygd-personvern/data-protection-by-design-and-by-default/) - read guidelines to help organisations understand and comply with the requirement of data protection.
   - Sensitive data storage software: 
     - [LastPass](https://support.logmeininc.com/lastpass) - online storage
+      - User training: http://link.lastpass.com/InpUsrLpEmb
+      - Admin training: http://link.lastpass.com/InpAdmLpEmb
     - [KeePass](https://keepass.info/help/base/firststeps.html) - offline storage
   - Identificators: SKU, EAN, QR
   - Categorization: [Google Taxonomy](https://support.google.com/merchants/answer/6324436)

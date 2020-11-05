@@ -46,6 +46,7 @@ You should not make to any position at Emotion while this module is not complete
     - [LastPass](https://support.logmeininc.com/lastpass) - online storage
       - User training: http://link.lastpass.com/InpUsrLpEmb
       - Admin training: http://link.lastpass.com/InpAdmLpEmb
+      - Overall: https://support.logmeininc.com/lastpass
     - [KeePass](https://keepass.info/help/base/firststeps.html) - offline storage
   - Identificators: SKU, EAN, QR
   - Categorization: [Google Taxonomy](https://support.google.com/merchants/answer/6324436)
